@@ -1,0 +1,39 @@
+
+Target Range Example
+250.14.0.0/8
+
+Usernames Example File
+usernames.txt
+
+Password Example File
+passwords.txt
+
+
+Setting up
+
+./setup.sh
+
+Running the scanner
+
+This auto brute-forces after its complete!
+
+./ssh-bf.sh
+
+
+However, you can also simultaniasly run the brute force script while you still scanning for hosts that have port 22 open if you really wanted to!
+
+./check-found.sh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
